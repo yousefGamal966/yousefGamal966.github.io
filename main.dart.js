@@ -64833,12 +64833,12 @@ A.rW.prototype={
 ai(){var s=null,r=A.kk("https://www.facebook.com")
 return new A.Iu(r,new A.t_(A.ao8(s,s,new A.qv("assets/images/image.jpg",s,s)),B.wD,s),A.ot(),A.ot(),A.ot(),A.ot(),B.l)}}
 A.Iu.prototype={
-P(a1){var s=this,r=null,q="Light",p="Cairo",o=2e6,n=A.c4(a1,r,t.w).w.a,m=t.af,l=A.dz(A.b([A.eh("Dareen Gamal Portfolio",A.cT(r,r,r,r,r,r,r,r,q,r,r,36,r,r,B.kd,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.bh,B.Y),k=s.r,j=n.a,i=A.vb(r,40,j),h=A.bD(o,0),g=j*0.275,f=n.b,e=f*0.52,d=A.fy(r,s.e,r,r,e,r,r,r,g),c=t.d,b=A.vb(r,r,7),a=A.bD(o,0),a0=s.w
+P(a1){var s=this,r=null,q="Light",p="Cairo",o=2e6,n=A.c4(a1,r,t.w).w.a,m=t.af,l=A.dz(A.b([A.eh("Dareen Gamal Portfolio",A.cT(r,r,r,r,r,r,r,r,q,r,r,36,r,r,B.kd,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.bh,B.Y),k=s.r,j=n.a,i=A.vb(r,40,j),h=A.bD(o,0),g=j*0.4,f=n.b,e=f*0.6,d=A.fy(r,s.e,r,r,e,r,r,r,g),c=t.d,b=A.vb(r,r,7),a=A.bD(o,0),a0=s.w
 a=A.dz(A.b([new A.vd(d,h,new A.bx(r,c),r),b,A.aeq(A.fy(B.af,A.a9m(A.Zw(A.Zw(A.abO(A.b([A.eh("Darren Gamal Mohamed",A.cT(r,r,r,r,r,r,r,r,p,r,r,26,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),A.eh("Call Center Agent",A.cT(r,r,r,r,r,r,r,r,q,r,r,22,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),A.dz(A.b([A.eh("Phone:",A.cT(r,r,r,r,r,r,r,r,p,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y),A.dz(A.b([A.eh("01092579819",A.cT(r,r,r,r,r,r,r,r,q,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y),A.dz(A.b([A.eh("E-Mail:",A.cT(r,r,r,r,r,r,r,r,p,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y),A.dz(A.b([A.eh("dareeng997@gmail.com",A.cT(r,r,r,r,r,r,r,r,q,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y),A.dz(A.b([A.eh("Address:",A.cT(r,r,r,r,r,r,r,r,p,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y),A.dz(A.b([A.eh("8 St, Ashour Hammouda-Maadi",A.cT(r,r,r,r,r,r,r,r,q,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y),A.dz(A.b([A.eh("Date Of Birth:",A.cT(r,r,r,r,r,r,r,r,p,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y),A.dz(A.b([A.eh("August 10th, 2000",A.cT(r,r,r,r,r,r,r,r,q,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],m),B.X,B.aE,B.Y)],m),B.px),s.x,B.b8),a0,B.aJ),a0),B.j,r,e,r,r,new A.bp(20,28,20,28),g),a,new A.bx(r,c))],m),B.X,B.bh,B.Y)
 g=A.vb(r,10,r)
 e=A.bD(o,0)
 a0=A.bD(o,0)
-a0=A.dz(A.b([A.a8C(A.fy(r,A.dz(A.b([A.a8U(!1,!0,A.acR(B.zT,B.j,r,28),r,!0,r,r,r,r,r,r,r,r,r,new A.a32(),r,r,r,r)],m),B.X,B.py,B.Y),new A.B(4278588252),r,f*0.05,r,r,r,j*0.557),e,a0,new A.bx(r,c))],m),B.X,B.bh,B.Y)
+a0=A.dz(A.b([A.a8C(A.fy(r,A.dz(A.b([A.a8U(!1,!0,A.acR(B.zT,B.j,r,28),r,!0,r,r,r,r,r,r,r,r,r,new A.a32(),r,r,r,r)],m),B.X,B.py,B.Y),new A.B(4278588252),r,f*0.05,r,r,r,j*0.809),e,a0,new A.bx(r,c))],m),B.X,B.bh,B.Y)
 e=A.bD(1e6,0)
 e=A.dz(A.b([A.a8C(A.eh("EDUCATION",A.cT(r,r,r,r,r,r,r,r,p,r,r,30,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r,e,new A.bx(r,c))],m),B.X,B.bh,B.Y)
 j=A.bD(o,0)
